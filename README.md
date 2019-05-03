@@ -16,4 +16,4 @@ We define a class of fractional back propagation neural network.
 This is the mnist dataset. Because of the limitation of file size, we just upload smaller dataset (10, 000 train images).
 
 ## weights.mat
-It contains pretrain weights parameters (60000 train images, 500 epochs, fractional order = 1.1).
+It contains pretrain weights parameters (60, 000 train images, 500 epochs, fractional order = 1.1).
